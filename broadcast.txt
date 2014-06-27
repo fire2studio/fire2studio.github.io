@@ -1,1 +1,1 @@
-{"info":[{"name":"test01","pkgname":"com.f2s.zj","url":"http://www.fire2studio.com/broadcast/zoomjam.png"}]}
+{"info":[{"name":"zoomjam","pkgname":"com.f2s.zj","url":"http://www.fire2studio.com/broadcast/zoomjam.png"}]}
