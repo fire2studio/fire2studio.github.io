@@ -1,1 +1,1 @@
-{"info":[{"name":"zoomjam","pkgname":"com.f2s.zj","url":"http://www.fire2studio.com/broadcast/zoomjam.jpg"}],[{"name":"xqbwz","pkgname":"com.f2s.xqbwz","url":"http://www.fire2studio.com/broadcast/xqbwz.jpg"}]}
+{"info":[{"name":"xqbwz","pkgname":"com.f2s.xqbwz","url":"http://www.fire2studio.com/broadcast/xqbwz.jpg"}]}
